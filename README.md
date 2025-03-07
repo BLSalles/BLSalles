@@ -20,8 +20,8 @@
 <ul>
   <li>Python</li>
   <li>VBA</li>
-  <li>Power BI</li>
-  <li>SAP</li>
+  <li>SQL</li>
+  <li>C#</li>
   <li>Automação de Processos</li>
   <li>Business Intelligence (BI)</li>
 </ul>
@@ -29,11 +29,16 @@
 <h3>O que me motiva</h3>
 Estou empenhado em continuar aprendendo e aprimorando minhas habilidades para contribuir de forma significativa no ambiente profissional. Conecte-se comigo para oportunidades de colaboração e networking.
 
-### Ferramentas:
-
-- Power BI
-- SAP
-- Pacote Office (intermediário)
+<h4>Ferramentas:</h4>
+<ul>
+  <li>SAP</li>
+  <li>Excel</li>
+  <li>Power BI</li>
+  <li>Power Automate</li>
+  <li>VS Code</li>
+  <li>LookerStudio</li>
+</ul>
+  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BLSalles&bg_color=0d1117&color=3333FF&line=3333FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
