@@ -1,7 +1,24 @@
 <h2 align="left"> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2> 
 
 <h3>Sobre Mim</h3>
-Profissional com 2 anos de experiência como Consultor de TI, especializado em projetos de Business Intelligence (BI) e automação de tarefas utilizando Python e VBA. Com um compromisso contínuo com a melhoria de processos, após concluir a graduação em Análise e Desenvolvimento de Sistemas na UMC, estou ampliando minhas habilidades através de um MBA em Análise de Dados com BI e Big Data pela Universidade Cruzeiro do Sul. Atualmente, atuo como Analista de Dados no Grupo Vamos, onde aplico minhas competências em Python e Power BI para gerar insights valiosos e melhorar a tomada de decisões. Além disso, possuo experiência em automação de processos e SAP, otimizando fluxos de trabalho e aumentando a eficiência operacional.
+Profissional com 2 anos de experiência como Consultor de TI, especializado em projetos de Business Intelligence (BI) e automação de tarefas utilizando Python e VBA.
+
+Formação Acadêmica:
+
+Graduação em Análise e Desenvolvimento de Sistemas pela UMC.
+MBA em Análise de Dados com BI e Big Data pela Universidade Cruzeiro do Sul (em andamento).
+Experiência Profissional:
+
+Analista de Dados no Grupo Vamos: Aplicação de competências em Python e Power BI para gerar insights valiosos e melhorar a tomada de decisões. Experiência em automação de processos e SAP, otimizando fluxos de trabalho e aumentando a eficiência operacional.
+Consultor de TI: Especialização em projetos de BI e automação de tarefas utilizando Python e VBA, com um compromisso contínuo com a melhoria de processos.
+Habilidades:
+
+Python
+VBA
+Power BI
+SAP
+Automação de Processos
+Business Intelligence (BI)
 
 <h3>O que me motiva</h3>
 Estou empenhado em continuar aprendendo e aprimorando minhas habilidades para contribuir de forma significativa no ambiente profissional. Conecte-se comigo para oportunidades de colaboração e networking.
