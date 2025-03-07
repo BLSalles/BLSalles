@@ -1,24 +1,30 @@
 <h2 align="left"> Hey there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2> 
 
 <h3>Sobre Mim</h3>
-Profissional com 2 anos de experiência como Consultor de TI, especializado em projetos de Business Intelligence (BI) e automação de tarefas utilizando Python e VBA.
 
-Formação Acadêmica:
+<p>Profissional com 2 anos de experiência como Consultor de TI, especializado em projetos de Business Intelligence (BI) e automação de tarefas utilizando Python e VBA.</p>
 
-Graduação em Análise e Desenvolvimento de Sistemas pela UMC.
-MBA em Análise de Dados com BI e Big Data pela Universidade Cruzeiro do Sul (em andamento).
-Experiência Profissional:
+<h4>Formação Acadêmica:</h4>
+<ul>
+  <li>Graduação em Análise e Desenvolvimento de Sistemas pela UMC.</li>
+  <li>MBA em Análise de Dados com BI e Big Data pela Universidade Cruzeiro do Sul (em andamento).</li>
+</ul>
 
-Analista de Dados no Grupo Vamos: Aplicação de competências em Python e Power BI para gerar insights valiosos e melhorar a tomada de decisões. Experiência em automação de processos e SAP, otimizando fluxos de trabalho e aumentando a eficiência operacional.
-Consultor de TI: Especialização em projetos de BI e automação de tarefas utilizando Python e VBA, com um compromisso contínuo com a melhoria de processos.
-Habilidades:
+<h4>Experiência Profissional:</h4>
+<ul>
+  <li><strong>Analista de Dados no Grupo Vamos:</strong> Aplicação de competências em Python e Power BI para gerar insights valiosos e melhorar a tomada de decisões. Experiência em automação de processos e SAP, otimizando fluxos de trabalho e aumentando a eficiência operacional.</li>
+  <li><strong>Consultor de TI:</strong> Especialização em projetos de BI e automação de tarefas utilizando Python e VBA, com um compromisso contínuo com a melhoria de processos.</li>
+</ul>
 
-Python
-VBA
-Power BI
-SAP
-Automação de Processos
-Business Intelligence (BI)
+<h4>Habilidades:</h4>
+<ul>
+  <li>Python</li>
+  <li>VBA</li>
+  <li>Power BI</li>
+  <li>SAP</li>
+  <li>Automação de Processos</li>
+  <li>Business Intelligence (BI)</li>
+</ul>
 
 <h3>O que me motiva</h3>
 Estou empenhado em continuar aprendendo e aprimorando minhas habilidades para contribuir de forma significativa no ambiente profissional. Conecte-se comigo para oportunidades de colaboração e networking.
